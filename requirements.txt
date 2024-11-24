@@ -5,3 +5,14 @@ urlextract
 wordcloud
 pandas
 emoji
+nltk
+numpy
+
+
+
+
+
+
+
+
+
