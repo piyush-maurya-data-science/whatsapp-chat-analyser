@@ -36,3 +36,13 @@ This project is a social media chat analyzer built with Python and Streamlit. Th
 9. **Sentiment Analysis**: Performs sentiment analysis based on the text and emojis used in the messages.
 <img width="916" alt="Screenshot 2024-12-14 at 5 50 58 PM" src="https://github.com/user-attachments/assets/baaf00a2-9d21-45f0-bb3b-415cd97dcbd8" />
 
+## Project Structure
+
+- `app.py`: The main Streamlit application.
+
+- `preprocessor.py`: Contains the `preprocess` function for preprocessing the chat log.
+
+- `helper.py`: Contains various helper functions for the analyses.
+
+- `stop_hinglish.txt`: A text file containing common hindi and english stopwords to be excluded from the word cloud and most common words analysis.
+
